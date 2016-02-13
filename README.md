@@ -41,4 +41,4 @@ How to run:
 8. Identifying '{' and '}' tokens but not doing anything with them, since not mentioned, can be seen in line 11 of FP.lex
 
 Thank You 
-Ronak Shah(rxs144130)
+Ronak Shah
