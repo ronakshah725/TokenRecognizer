@@ -1,13 +1,8 @@
-	_______  _____  _______  _____  _____        _______  ______
-	|       |     | |  |  | |_____]   |   |      |______ |_____/
-	|_____  |_____| |  |  | |       __|__ |_____ |______ |    \_
 
-
-  _____  _     _ _______ _______ _______       _____  __   _ _______
- |_____] |_____| |_____| |______ |______      |     | | \  | |______
- |       |     | |     | ______| |______      |_____| |  \_| |______
-
-
+                      ____ ____ ____ _  _ _  _ ____ ____ 
+                      [__  |    |__| |\ | |\ | |___ |__/ 
+                      ___] |___ |  | | \| | \| |___ |  \ 
+                                                         
 How to run:
 
 1. Unzip the file
@@ -38,7 +33,5 @@ How to run:
 
 7. All the outputs are provided in the sample*.output files in the submission.
 
-8. Identifying '{' and '}' tokens but not doing anything with them, since not mentioned, can be seen in line 11 of FP.lex
 
-Thank You 
-Ronak Shah
+
